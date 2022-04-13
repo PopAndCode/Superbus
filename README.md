@@ -15,6 +15,11 @@
 
 public roadmap is available [here](https://github.com/PopAndCode/Superbus/projects/1)
 
+<ins>Demo video</ins>
+
+[Youtube](https://youtu.be/dEz9X47w2OA)
+
+
 <ins>Download</ins>
 
 superbus is available on mac app store.
